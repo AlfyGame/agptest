@@ -1,6 +1,7 @@
 ---
 title: FIFA 97
 layout: default
+nav_exclude: true
 ---
 
 # FIFA 97
