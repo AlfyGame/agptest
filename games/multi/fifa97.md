@@ -1,3 +1,8 @@
+---
+title: FIFA 97
+layout: default
+---
+
 # FIFA 97
 
 ![](https://cdn.mobygames.com/covers/2691613-fifa-soccer-97-dos-front-cover.jpg)
