@@ -1,9 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: AGP Test
+description: Sto tostando questa cosa
 theme: just-the-docs
 color_scheme: dark
+search.rel_url: false
 
-url: https://just-the-docs.github.io
+url: https://alfygame.github.io/agptest/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
