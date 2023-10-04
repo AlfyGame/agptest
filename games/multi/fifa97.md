@@ -8,6 +8,8 @@ nav_exclude: true
 
 ![](https://cdn.mobygames.com/covers/2691613-fifa-soccer-97-dos-front-cover.jpg)
 
+---
+
 ## Details
 
 Title: FIFA 97, FIFA Soccer 97
@@ -17,6 +19,8 @@ Platforms: DOS, Windows, PlayStation, SNES, Genesis, SEGA Saturn
 Year: 1996
 
 Genre: Sports
+
+---
 
 ## Videos
 ### Sony PlayStation
