@@ -3,7 +3,15 @@ title: Donkey Kong
 layout: default
 nav_exclude: true
 ---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
 {:toc}
+</details>
 
 # Donkey Kong
 ![](https://cdn.mobygames.com/covers/6995151-donkey-kong-arcade-front-cover.jpg)
