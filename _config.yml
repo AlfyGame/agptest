@@ -2,7 +2,14 @@ title: AlfyGamePLAY
 description: Nèèèè
 theme: just-the-docs
 color_scheme: dark
-search.rel_url: false
+
+search_enabled: true
+
+search:
+  previews: 5
+  rel_url: false
+  
+heading_anchors: true
 
 url: https://alfygame.github.io/
 

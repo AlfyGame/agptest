@@ -4,22 +4,12 @@ layout: default
 nav_exclude: true
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
-# Donkey Kong {: .text-center }
+# Donkey Kong 
 ![](https://cdn.mobygames.com/covers/6995151-donkey-kong-arcade-front-cover.jpg)
 
 ---
 
 ## Details
-{: .no_toc }
 
 <table>
 <thead>
@@ -127,7 +117,6 @@ nav_exclude: true
 ### NES
 #### Region: World (Rev 1)
 ##### Emulators
-{: .no_toc }
 
 <table>
 <thead>
