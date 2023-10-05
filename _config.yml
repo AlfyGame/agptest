@@ -19,7 +19,7 @@ nav_external_links:
   - title: YouTube
     url: https://www.youtube.com/@AlfyGamePLAY/
     hide_icon: false
-    opens_in_new_tab: true
+    opens_in_new_tab: false
 
 
 aux_links:
