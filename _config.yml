@@ -6,7 +6,7 @@ color_scheme: dark
 search_enabled: true
 
 search:
-  previews: 5
+  previews: 3
   rel_url: false
   
 heading_anchors: true
