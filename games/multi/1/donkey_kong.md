@@ -9,11 +9,11 @@ nav_exclude: true
     Table of contents
   </summary>
   {: .text-delta }
-1. TOC
+- TOC
 {:toc}
 </details>
 
-# Donkey Kong
+# Donkey Kong {: .text-center }
 ![](https://cdn.mobygames.com/covers/6995151-donkey-kong-arcade-front-cover.jpg)
 
 ---
