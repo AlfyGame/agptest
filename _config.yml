@@ -2,7 +2,6 @@ title: AlfyGamePLAY
 description: Nèèèè
 theme: just-the-docs
 color_scheme: dark
-logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/logo.ico"
 
 search_enabled: true
@@ -15,12 +14,12 @@ heading_anchors: true
 
 url: https://alfygame.github.io/
 
-# External navigation links
+
 nav_external_links:
-  - title: Just the Docs on GitHub
-    url: https://github.com/just-the-docs/just-the-docs
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: YouTube
+    url: https://www.youtube.com/@AlfyGamePLAY/
+    hide_icon: false
+    opens_in_new_tab: true
 
 
 aux_links:
