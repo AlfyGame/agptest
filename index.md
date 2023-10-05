@@ -1,27 +1,26 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-# Tost di prova
+# AlfyGamePLAY
+
+## Hello, World!
+
+In this channel you can find various gameplay of any kind, for example:
+- Retrogames
+- Modern games
+- Rare and obscure oddities
+And much more !
+
+Gameplay are recorded at higher quality and resolution (if possibile)
+You can find the same game but with a different version / region and the same game but running on a different emulator / hardware.
 
 
-<div style="position: relative; width: 100%; padding-bottom: 56,25%">
-<iframe width="480" height="270" src="https://www.youtube.com/embed/7eJSgV_9rYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-Questo è un gameplay su questo gioco
 
 
 
-
-![](https://i.ytimg.com/vi/7eJSgV_9rYw/maxresdefault.jpg)
-<a href="https://www.youtube.com/watch?v=7eJSgV_9rYw" target="_blank">https://www.youtube.com/watch?v=7eJSgV_9rYw</a>
-
-
-<iframe src="https://www.youtube.com/embed/7eJSgV_9rYw?si=08kfbXLoldP--vYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-html:
 
 <table>
 <thead>
